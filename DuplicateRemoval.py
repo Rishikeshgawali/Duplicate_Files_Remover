@@ -67,7 +67,7 @@ def PrintResults(dict1):                                                #       
         print("No duplicate files found.")
 
 def main():
-    print("Marvellous Infosystem by Piyush Khairnar...")
+    print("----Program by Rishikesh Gawali----")
 
     print("Application name is : "+argv[0])
 
