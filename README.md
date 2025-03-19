@@ -82,4 +82,4 @@ No duplicate files found.
 ```
 
 ## Author
-- **RISHIKESH BHARAT GAWALI**.
+- **RISHIKESH BHARAT GAWALI**
