@@ -81,5 +81,5 @@ Current folder is : /path/to/your/directory/subfolder
 No duplicate files found.
 ```
 
-## Acknowledgments
-- This project was developed by **Rishikesh Gawali**.
+## Author
+- **RISHIKESH BHARAT GAWALI**.
